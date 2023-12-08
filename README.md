@@ -1,5 +1,5 @@
 # Quiz app
-Hi guys this a basic Quiz app 
+Hi guys this a basic Quiz app with some sound effects and Gui effects.
 
 # Jar File Requirements 
 If u need jar file ur computer should have java version "20.0.1"(Open cmd > type java -version)
