@@ -1,4 +1,4 @@
-# Quizapp
+# Quiz app
 Hi guys this a basic Quiz app 
 
 # Jar File Requirements 
