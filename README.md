@@ -1,7 +1,7 @@
 # Quiz app
 Hi guys this a basic Quiz app with some  engaging sound effects, sleek GUI enhancements, and personalized learning options.
 # Jar File Requirements 
-If u need jar file ur computer should have java version "20.0.1"(Open cmd > type java -version)
+If u need jar file ur computer should have java version "20.0.1" or higher than "20.0.1"(Open cmd > type java -version)
 
 U can find the jar file under V1.0 in Releases
 
